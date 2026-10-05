@@ -7820,7 +7820,7 @@ html:only-child > head + body div.layerContainer__59d0d > div.layer_bc663c div.o
 	position: relative !important;
 }
 html:only-child > head + body div.layerContainer__59d0d > div.layer_bc663c div.outerContainer_e44912 > div.container__8a031.modal_e44912 > div.modalContent_e44912 > div.modalContentInner_e44912 > div.container_abd9a8 > aside.sidebar__409aa > nav.nav__409aa > div.navScroller__409aa.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul.sublist__409aa + div::after {
-	content: "BasicBackground by" !important;
+	content: "" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
@@ -7839,7 +7839,7 @@ html:only-child > head + body div.layerContainer__59d0d > div.layer_bc663c div.o
 	animation: unset !important;
 }
 html:only-child > head + body div.layerContainer__59d0d > div.layer_bc663c div.outerContainer_e44912 > div.container__8a031.modal_e44912 > div.modalContent_e44912 > div.modalContentInner_e44912 > div.container_abd9a8 > aside.sidebar__409aa > nav.nav__409aa > div.navScroller__409aa.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > ul.sublist__409aa + div::before {
-	content: "DevilBro" !important;
+	content: "" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
